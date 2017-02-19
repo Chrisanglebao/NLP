@@ -1,0 +1,13 @@
+Supervised relation extraction (M1 and M2)
+	prereque: Named Entity
+	- Headwords of M1 and M2 and combination
+	- Bag of words and bigrams in M1 and M2
+	- Position +1 +2, -1, -2
+	- Bag of words/bigrams between two entities
+	- Named entity of M1, M2
+	- Concatennation of NER
+	- Entity level of M1, M2 (NAME, NOMINAL, PRONOUN)
+	- Sequence of sentatic chunks
+	- Gazeteer: geopolitical
+	- Trigger: kinship terms
+	
